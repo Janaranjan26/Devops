@@ -1,0 +1,100 @@
+C:\Users\Administrator>systeminfo
+
+Host Name:                 EC2AMAZ-HADL1IQ
+OS Name:                   Microsoft Windows Server 2019 Datacenter
+OS Version:                10.0.17763 N/A Build 17763
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Server
+OS Build Type:             Multiprocessor Free
+Registered Owner:          EC2
+Registered Organization:   Amazon.com
+Product ID:                00430-00000-00000-AA187
+Original Install Date:     7/4/2025, 4:05:51 AM
+System Boot Time:          7/4/2025, 11:25:49 AM
+System Manufacturer:       Xen
+System Model:              HVM domU
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 79 Stepping 1 GenuineIntel ~2300 Mhz
+BIOS Version:              Xen 4.11.amazon, 8/24/2006
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC) Coordinated Universal Time
+Total Physical Memory:     1,024 MB
+Available Physical Memory: 184 MB
+Virtual Memory: Max Size:  2,048 MB
+Virtual Memory: Available: 863 MB
+Virtual Memory: In Use:    1,185 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\EC2AMAZ-HADL1IQ
+Hotfix(s):                 57 Hotfix(s) Installed.
+                           [01]: KB5055175
+                           [02]: KB4470502
+                           [03]: KB4470788
+                           [04]: KB4480056
+                           [05]: KB4486153
+                           [06]: KB4493510
+                           [07]: KB4499728
+                           [08]: KB4504369
+                           [09]: KB4512577
+                           [10]: KB4512937
+                           [11]: KB4521862
+                           [12]: KB4523204
+                           [13]: KB4535680
+                           [14]: KB4539571
+                           [15]: KB4549947
+                           [16]: KB4558997
+                           [17]: KB4562562
+                           [18]: KB4566424
+                           [19]: KB4570332
+                           [20]: KB4577667
+                           [21]: KB4587735
+                           [22]: KB4589208
+                           [23]: KB4598480
+                           [24]: KB4601393
+                           [25]: KB5000859
+                           [26]: KB5001404
+                           [27]: KB5003243
+                           [28]: KB5003711
+                           [29]: KB5005112
+                           [30]: KB5060531
+                           [31]: KB5006754
+                           [32]: KB5008287
+                           [33]: KB5009642
+                           [34]: KB5011574
+                           [35]: KB5012675
+                           [36]: KB5014031
+                           [37]: KB5014797
+                           [38]: KB5015896
+                           [39]: KB5017400
+                           [40]: KB5020374
+                           [41]: KB5023789
+                           [42]: KB5028316
+                           [43]: KB5030505
+                           [44]: KB5031589
+                           [45]: KB5032306
+                           [46]: KB5034863
+                           [47]: KB5035963
+                           [48]: KB5037017
+                           [49]: KB5039335
+                           [50]: KB5040563
+                           [51]: KB5041577
+                           [52]: KB5043126
+                           [53]: KB5050110
+                           [54]: KB5054007
+                           [55]: KB5055662
+                           [56]: KB5058525
+                           [57]: KB5005701
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: AWS PV Network Device
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.31.0.1
+                                 IP address(es)
+                                 [01]: 172.31.5.179
+                                 [02]: fe80::17dc:ed0d:37cb:8507
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
